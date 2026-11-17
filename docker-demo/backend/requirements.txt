@@ -1,0 +1,5 @@
+Django
+djangorestframework
+djanjo-filter
+djangorestframework-simplejwt
+django-cors-headers
